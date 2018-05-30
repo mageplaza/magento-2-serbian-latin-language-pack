@@ -112,7 +112,7 @@ Now time to active the Serbian (Latin) language pack for your Magento 2 store. F
 
 ## 4. How to contribute
 
-![language pack](http://progressed.io/bar/{{process}}?title=translated)
+![language pack](http://progressed.io/bar/14?title=translated)
 
 Contribute to this language at https://crowdin.com/project/magento-2/sr-CS
 
