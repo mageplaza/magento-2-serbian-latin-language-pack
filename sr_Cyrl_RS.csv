@@ -14313,6 +14313,6 @@
 "Your shipping confirmation is below. Thank you again for your business.","Vaša potvrda o isporuci je ispod. Hvala Vam još jednom za Vaše poslovanje.",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","Isporuka za #%shipment_id za porudžbinu #%order_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","Ažurirano na Vašoj %store_name pošiljci",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","Moj nalog",theme,frontend/Magento/luma
 "Address Book","Adresar",theme,frontend/Magento/luma
 "Account Information","Informacije o nalogu",theme,frontend/Magento/luma
