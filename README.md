@@ -89,8 +89,11 @@ Unzip the Serbian (Latin) language pack to Magento 2 root folder. In this guide,
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/sr_cyrl_rs
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-serbian-latin-language-pack` to `sr_cyrl_rs`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Serbian (Latin) pack manually, you have to access to you
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `sr_Cyrl_RS.zip` into `app/i18n/mageplaza/sr_Cyrl_RS/sr_Cyrl_RS.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sr_cyrl_rs/sr_Cyrl_RS.csv`
+
+See this screenshot
+
+![Serbian (Latin) pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
