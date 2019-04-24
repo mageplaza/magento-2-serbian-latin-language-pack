@@ -117,11 +117,13 @@ To download and install Serbian (Latin) pack manually, you have to access to you
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sr_cyrl_rs/sr_Cyrl_RS.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/sr_cyrl_rs/`
 
-See this screenshot
+See this screenshot:
 
 ![Serbian (Latin) pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **sr_cyrl_rs**
 
 #### Step 2: Flush cache
 
