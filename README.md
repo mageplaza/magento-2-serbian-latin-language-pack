@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Serbian (Latin) Language Pack](https://www.mageplaza.com/magento-2-serbian-latin-language-pack.html)
 
+![Mageplaza Serbian (Latin) language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
