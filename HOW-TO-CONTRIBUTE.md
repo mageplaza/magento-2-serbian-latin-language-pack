@@ -16,7 +16,7 @@ Let's me explain the workflow:
 
 - [github_contributions.csv](https://github.com/mageplaza/magento-2-serbian-latin-language-pack/blob/master/github_contributions.csv) has been contributed by Mageplaza and Magento community.
 
-- We will merge `github_contributions.csv` with [sr_Cyrl_RS.csv](https://github.com/mageplaza/magento-2-serbian-latin-language-pack/blob/master/sr_Cyrl_RS.csv). Your Magento 2 store will use this csv file.
+- We will merge `github_contributions.csv` with [sr_CS.csv](https://github.com/mageplaza/magento-2-serbian-latin-language-pack/blob/master/sr_CS.csv). Your Magento 2 store will use this csv file.
 
 So, you should contribute to [github_contributions.csv](https://github.com/mageplaza/magento-2-serbian-latin-language-pack/blob/master/github_contributions.csv) file.
 
@@ -37,8 +37,8 @@ The `github_contributions.csv` is saparated **line by line**, see:
 Fom the begining, `github_contributions.csv` is empty, you guys should add more translations into it.
 
 #### Suggestions
-- You can copy any part of `sr_Cyrl_RS.csv` and paste to `github_contributions.csv` then translate it.
-- Please do not copy all lines in `sr_Cyrl_RS.csv`, we will not approve it in this case.
+- You can copy any part of `sr_CS.csv` and paste to `github_contributions.csv` then translate it.
+- Please do not copy all lines in `sr_CS.csv`, we will not approve it in this case.
 
 ## Step 3: Contribute
 
