@@ -1,7 +1,7 @@
 "All","Sve",module,Magento_AdminGws
 "None","Ništa",module,Magento_AdminGws
 "Allowed Scopes","Dozvoljena stanja",module,Magento_AdminGws
-"You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1.",module,Magento_AdminGws
+"You need more permissions to delete this item(s): %1.","Potrebno vam je više dozvola da obrišete ovaj artikal(artikle): %1.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Potrebne su Vam dozvole višeg nivoa da primenite neku od pravila dopune.",module,Magento_AdminGws
 "Please assign this entity to a store view.","Molim vas da dodelite ovaj entitet prikazu radnje.",module,Magento_AdminGws
 "You can create orders only in an active store.","Porudžbine možete praviti samo u aktivnoj prodavnici.",module,Magento_AdminGws
@@ -17,19 +17,19 @@
 "You need more permissions to save this setting.","Potrebne su Vam više dozvole da sačuvate ovo podešavanje.",module,Magento_AdminGws
 "Role Scopes","Sve Oblasti",module,Magento_AdminGws
 "Custom","Izborno",module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Nemate dozvolu da sačuvate ovaj artikal na trenutnom nivou prikaza prodavnice. Molimo vas, prebacite se na dozvoljeni prikaz prodavnice",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Više dozvola je potrebno da biste izbrisali stavku ""%1”.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Ovaj entitet mora biti dodeljen prikazu prodavnice. Proverite kome je dodeljen entitet i pokušajte ponovo.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Porudžbine mogu biti izvršene samo u aktivnoj prodavnici. Proverite prodavnicu i pokušajte ponovo.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Ovaj artikal mora biti dodeljen prikayu prodavnice. Dodelite artikal i pokušajte ponovo.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Treba vam više dozvola da biste sačuvali ovaj artikal.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Treba vam više dozvola da biste izbrisali ovaj artikal.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Treba vam više dozvola da biste videli ovaj artikal.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Barem jedan vebsajt ili grupa prodavnica mora biti izabrana. Izaberite i pokušajte ponovo.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Treba vam više dozvola da biste dodelili sve opsege Ulozi.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" ID prodavnice je netačan. Proverite ID vebsajta i pokušajte ponovo.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" ID prodavnice je netačan. Proverite ID prodavnice i pokušajte ponovo.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Više dozvola je potrebno da biste sačuvali ovu stavku.",module,Magento_AdminGws
 "Read Details","Pročitajte detalje",module,Magento_AdminNotification
 "Mark as Read","Označi kao pročitano",module,Magento_AdminNotification
 "Are you sure?","Da li ste sigurni?",module,Magento_AdminNotification
@@ -80,8 +80,8 @@
 "Date Added","Datum Dodavanja",module,Magento_AdminNotification
 "Message","Poruka",module,Magento_AdminNotification
 "Actions","Radnje",module,Magento_AdminNotification
-"Close popup","Close popup",module,Magento_AdminNotification
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.",module,Magento_AdminNotification
+"Close popup","Ugasite popup",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Pregledali ste i rešili sve nedavne sistemske notifikacije. Osvežite web stranicu da biste očistili obaveštenje.",module,Magento_AdminNotification
 "Manage Shopping Cart","Ažuriranje korpe sa artiklima",module,Magento_AdvancedCheckout
 "Create Order","Kreiranje narudžbine",module,Magento_AdvancedCheckout
 "Back","Nazad",module,Magento_AdvancedCheckout
@@ -118,9 +118,9 @@
 "You must buy at least %1 of these per purchase.","Možete kupiti najmanje %1 od ovih po narudžbi.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Navedite opcije proizvoda.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Upozori me kada ova stavka postane dostupna.",module,Magento_AdvancedCheckout
-"We can't find this customer.","We can't find this customer.",module,Magento_AdvancedCheckout
+"We can't find this customer.","Ne možemo pronaći ovog korisnika.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Upravljanje kolicima za kupovinu je onemogućena za ovog kupca.",module,Magento_AdvancedCheckout
-"We can't find this store.","We can't find this store.",module,Magento_AdvancedCheckout
+"We can't find this store.","Ne možemo pronaći ovu prodavnicu.",module,Magento_AdvancedCheckout
 "Customers","Kupci",module,Magento_AdvancedCheckout
 "Shopping Cart","Korpa",module,Magento_AdvancedCheckout
 "Sorry, something went wrong. You can find out more in the error log.","Izvini, nešto krenulo naopako. Više o grešci možete pronaći u evidenciji grešaka.",module,Magento_AdvancedCheckout
@@ -140,10 +140,10 @@
 "Order by SKU","Narudžba po šifri",module,Magento_AdvancedCheckout
 "The SKU was not found in the catalog.","Šifra nije pronađena u katalogu.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Dostupnost: trenutno nema na stanju.",module,Magento_AdvancedCheckout
-"We don't have as many of these as you want.","We don't have as many of these as you want.",module,Magento_AdvancedCheckout
-"You can't add this many to your cart.","You can't add this many to your cart.",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.","Nemamo toliko ovoga koliko zahtevate.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","Ne možete dodati ovoliko puno u vašu korpu.",module,Magento_AdvancedCheckout
 "You need to choose options for your item.","Potrebno je da odaberete opcije za vaš stavku.",module,Magento_AdvancedCheckout
-"We can't add the item to your cart.","We can't add the item to your cart.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","Ne možemo dodati artikal u korpu.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","Unesite jedan broj u polju „Kol”.",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","Ovaj proizvod je dodeljen drugoj Web lokaciji.",module,Magento_AdvancedCheckout
 "You can add only enabled products.","Možete dodati samo raspoložive proizvode.",module,Magento_AdvancedCheckout
@@ -153,7 +153,7 @@
 "You have not entered a product SKU.","Niste uneli šifru proizvoda.",module,Magento_AdvancedCheckout
 "We can't add a product to cart by id ""%1"".","Ne možemo da dodamo proizvod u korpu po Id „%1”.",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Došlo je do greške kod presortiranja ovog proizvoda.",module,Magento_AdvancedCheckout
-"We can't find this wish list.","We can't find this wish list.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Ne možemo da ažuriramo listu želja.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Dodali ste %1 proizvod u vašu korpu za kupovinu.",module,Magento_AdvancedCheckout
 "You added %1 products to your shopping cart.","Dodali ste %1 proizvode u vašu korpu za kupovinu.",module,Magento_AdvancedCheckout
 "%1 product requires your attention.","%1 proizvod zahteva vašu paznju.",module,Magento_AdvancedCheckout
@@ -217,20 +217,20 @@
 "The text of the link to the My Account &gt; Order by SKU page","Link za moj nalog &gt; Porudžbina po šifri",module,Magento_AdvancedCheckout
 "Load a list of SKUs","Učitavanje liste šifri",module,Magento_AdvancedCheckout
 "Order by SKU Template","Šablon porudžbina po šifri",module,Magento_AdvancedCheckout
-"SKU not found in catalog.","SKU not found in catalog.",module,Magento_AdvancedCheckout
-"This file needs to be in .csv format.","This file needs to be in .csv format.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"SKU not found in catalog.","SKU nije pronađen u katalogu.",module,Magento_AdvancedCheckout
+"This file needs to be in .csv format.","Fajl mora biti u .csv formatu.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Ovaj korisnik nije pronađen. Provari korisnika i polušaj ponovo.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Ova prodavnica nije pronađena. Proveri prodavnicu i pokušaj ponovo.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Došlo je do greške. Za detalje, proverite log.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Porudžbine mogu biti izvršene samo u aktivnoj prodavnici. Proverite prodavnicu i pokušajte ponovo.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Poručen artikal mora biti učitan. Učitaj artikal i pokušaj ponovo.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","Navod artikal ID mora biti primljen. Postavi ID i pokušaj ponovo.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","Navod artikal Id mora biti primljen. Učitaj artikal i pokušaj ponovo.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Lista želja artikla mora biti primljena. Postavi i pokušaj ponovo.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Artikal sa liste želja mora biti učitan. Učitaj artikal i pokušaj ponovo.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Fajl je korumporan i ne može da se koristi.",module,Magento_AdvancedCheckout
 "Please correct the data sent.","Ispravite poslate podatke.",module,Magento_AdvancedPricingImportExport
-"Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
+"Entity type model '%1' is not found","Model tipa entitet '%1' nije pronađen",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model za tip entiteta mora biti instanca \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","Nema dostupnih tipova proizvoda za izvoz",module,Magento_AdvancedPricingImportExport
 "%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 klasa ne implementira \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
@@ -296,14 +296,13 @@
 "API","API",module,Magento_Analytics
 "Configuration","Konfiguracija",module,Magento_Analytics
 "Business Intelligence","Poslovna inteligencija",module,Magento_Analytics
-"BI Essentials","BI Essentials",module,Magento_Analytics
+"BI Essentials","BI osnove",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
-terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
-Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
-""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
-terms and conditions</a>.",module,Magento_Analytics
+terms and conditions</a>.","Ova usluga pruža dinamičan programski paket izveštavanja sa bogatim zapažanjem o vašem poslovanju.,module,Magento_Analytics
+Izveštaju se može pristupiti sigurno preko personalizovane stranice izvan admin panel tako što ćete kliknuti na vezu,module,Magento_Analytics
+„Idi da više opcija za izveštavanje”. </br> Za više informacija, pogledajte naše <a href=""https://magento.com/legal/terms/cloud-terms""> termine i uslove.</a>.",module,Magento_Analytics
 "Advanced Reporting Service","Napredna usluga izveštavanja",module,Magento_Analytics
 "Time of day to send data","Doba dana za slanje podataka",module,Magento_Analytics
 "Industry","Industrija",module,Magento_Analytics
@@ -311,9 +310,9 @@ terms and conditions</a>.",module,Magento_Analytics
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Dobijte više saznanja iz Magento Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
 becoming more data driven.</br> Learn more about <a target=""_blank"",module,Magento_Analytics
-href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to,module,Magento_Analytics
-becoming more data driven.</br> Learn more about <a target=""_blank"",module,Magento_Analytics
-href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.",module,Magento_Analytics
+href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence vam pruža jednostavan i jasan put kako da,module,Magento_Analytics
+dobijete više podataka za upravljanje.</br> Saznajte više o <a target=""_blank"",module,Magento_Analytics
+href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Osnove</a> sloj.",module,Magento_Analytics
 "Auto Parts","Auto delovi",module,Magento_Analytics
 "Baby/Children’s Apparel, Gear and Toys","Odece beba/za decu, opremu i igračke",module,Magento_Analytics
 "Beauty and Cosmetics","Lepota i kozmetika",module,Magento_Analytics
@@ -332,26 +331,26 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Pet Goods","Oprema za ljubimce",module,Magento_Analytics
 "Pharma and Medical Devices","Farmacija i medicinski uređaji",module,Magento_Analytics
 "Technology B2B","B2B tehnologije",module,Magento_Analytics
-"Other","Other",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"Other","Ostalo",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Vrednost vremena koristi nepodržan format. Unesite podržani format i pokušajte ponovo.",module,Magento_Analytics
+"Please select an industry.","Odaberite državu.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Podaci su nevažeći. Unesite opdatke za string ili podatke kori se mogu prevesti u string i pokušajte ponovo.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Podaci su nevažeći. Unesite podatke kao string i pokušajte ponovo.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Podaci su nevažeći. Koristite važeći šifrant i pokušajte ponovo.",module,Magento_Analytics
+"Enter the encryption key and try again.","Unesit ključ za enkripciju i pokušajte ponovo.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","""%1"" izvor ne postoji.",module,Magento_Analytics
+"Retry Synchronization","Pokušaj ponovo Sinhronizaciju",module,Magento_Analytics
 "Back","Nazad",module,Magento_AsynchronousOperations
 "Done","Gotovo",module,Magento_AsynchronousOperations
 "Retry","Pokušaj ponovo",module,Magento_AsynchronousOperations
 "'Action Details - #' .","'Pogledaj detalje - #' .",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 stavka(e) su planirane za ažuriranje”",module,Magento_AsynchronousOperations
 "Bulk Actions Log","Evidencija masovnih radnji",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","Grupni uuid %bulkUuid ne postoji",module,Magento_AsynchronousOperations
+"Topic %1","Tema %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","Došlo je do greške prilikom obrade zahteva.",module,Magento_AsynchronousOperations
-"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","Procesuiranje greške %key element unešenih podataka",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Došlo je do greške prilikom ažuriranja cena proizvoda. Molimo vas koristie log za detalje.",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","%1 stavka(i) se trenutno ažurira.",module,Magento_AsynchronousOperations
 "Task ""%1"": ","Zadatak „%1”: ",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 stavka(e) su planirane za ažuriranje”.",module,Magento_AsynchronousOperations
@@ -366,9 +365,9 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 ", %1 failed to update",", %1 se nije uspelo ažurirati",module,Magento_AsynchronousOperations
 "Something went wrong.","Nešto krenulo naopako.",module,Magento_AsynchronousOperations
 "Action Log","Dnevnik radnji",module,Magento_AsynchronousOperations
-"Report","Report",module,Magento_AsynchronousOperations
+"Report","Prijavi",module,Magento_AsynchronousOperations
 "Bulk Actions","Masovne radnje",module,Magento_AsynchronousOperations
-"Action Logs","Action Logs",module,Magento_AsynchronousOperations
+"Action Logs","Dnevnik Radnji",module,Magento_AsynchronousOperations
 "Days Saved in Log","Dani sačuvani u dnevniku",module,Magento_AsynchronousOperations
 "Description of Operation","Opis operacije",module,Magento_AsynchronousOperations
 "Summary","Rezime",module,Magento_AsynchronousOperations
@@ -383,13 +382,13 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Dismiss All Completed Tasks","Odbaci sve dovršene zadatke",module,Magento_AsynchronousOperations
 "Action Details - #","Detalji radnje- #",module,Magento_AsynchronousOperations
 "Number of Records Affected","Broj zapisa koji je uticao na",module,Magento_AsynchronousOperations
-"We can't find the role for the user you wanted.","We can't find the role for the user you wanted.",module,Magento_Authorization
+"We can't find the role for the user you wanted.","Ne možemo pronaći ulogu za traženog korisnika.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Nešto je krenulo naopako za vreme sastavljanja liste dozvoljenih resursa. Više o greškama možete pogledati u evidenciji greški.",module,Magento_Authorization
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again.",module,Magento_Authorization
+"The role wasn't found for the user. Verify the role and try again.","Uloga za korisnika nije pronađena. Proverite ulogu i pokušajte ponovo.",module,Magento_Authorization
 "You created the order.","Vi ste kreirali narudžbinu.",module,Magento_Authorizenet
 "Order saving error: %1","Redosled čuvanja greške: %1",module,Magento_Authorizenet
 "Please choose a payment method.","Odaberite način plaćanja.",module,Magento_Authorizenet
-"We can't process your order right now. Please try again later.","We can't process your order right now. Please try again later.",module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.","Ne možemo obraditi vašu porudžbinu sada. Pokušajte kasnije.",module,Magento_Authorizenet
 "An error occurred on the server. Please try to place the order again.","Došlo je do greške na serveru. Pokušajte da ponovo pošaljete porudžbinu.",module,Magento_Authorizenet
 "Credit Card: xxxx-%1","Kreditna kartica: xxxx-%1",module,Magento_Authorizenet
 "amount %1","iznos %1",module,Magento_Authorizenet
@@ -410,10 +409,10 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Invalid amount for refund.","Neispravna vrednost za povraćaj novca.",module,Magento_Authorizenet
 "Payment refunding error.","Greška kod povraćaja novca.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","Transakcija je odbijena jer nije prošla proveru podataka.",module,Magento_Authorizenet
-"This payment didn't work out because we can't find this order.","This payment didn't work out because we can't find this order.",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","Ovo plaćanje nije uspelo jer ne možemo pronaći porudžbinu.",module,Magento_Authorizenet
 "There was a payment authorization error.","Došlo je do greške pri autorizaciji plaćanja.",module,Magento_Authorizenet
 "Please enter a transaction ID to authorize this payment.","Molim uneti ID transakcije za autorizaciju ovog plaćanja.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Došlo je do greške: plaćeni iznos ne odgovara iznosu porudžbine. Ispravite ovo i pokuušajte ponovo.",module,Magento_Authorizenet
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transakcija %1 je odobrena. Vrednost %2. Status transakcije je ""%3""",module,Magento_Authorizenet
 "Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transakcija %1 je odbijena/poništena. Status transakcije je ""%2"". Vrednost je %3.",module,Magento_Authorizenet
 "Authorize Only","Samo odobriti",module,Magento_Authorizenet
@@ -455,17 +454,17 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Minimum Order Total","Minimalna vrednost porudžbine",module,Magento_Authorizenet
 "Maximum Order Total","Maksimalna vrednost porudžbine",module,Magento_Authorizenet
 "Sort Order","Redosled porudžbina",module,Magento_Authorizenet
-"Cannot place order.","Cannot place order.",module,Magento_Authorizenet
-"'Gateway error: ' .","'Gateway error: ' .",module,Magento_Authorizenet
+"Cannot place order.","Nije moguće postaviti porudžbinu.",module,Magento_Authorizenet
+"'Gateway error: ' .","Gateway greška: ' .",module,Magento_Authorizenet
 "Unable to place order. Please try again later.","Nije moguće postaviti narudžbinu. Pokušajte ponovo kasnije.",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
-"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)",module,Magento_Authorizenet
-"Signature Key","Signature Key",module,Magento_Authorizenet
-"There was an error while trying to process the request.","There was an error while trying to process the request.",module,Magento_AuthorizenetAcceptjs
-"This transaction cannot be refunded with its current status.","This transaction cannot be refunded with its current status.",module,Magento_AuthorizenetAcceptjs
+"A server error stopped your order from being placed. Please try to place your order again.","Greška na serveru je zaustavila porudžbinu. Pokušajte da postavite vaše ponude ponovo.",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","Detalji transakcije nisu dostupni. Pokušajte kasnije.",module,Magento_Authorizenet
+"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direktan Post (Deprecated)",module,Magento_Authorizenet
+"Signature Key","Ključ eidget",module,Magento_Authorizenet
+"There was an error while trying to process the request.","Došlo je do greške tokom pokušaja da se procesuira zahtev.",module,Magento_AuthorizenetAcceptjs
+"This transaction cannot be refunded with its current status.","Ova transakcija nemože miti povraćena sa trenutnim statusom.",module,Magento_AuthorizenetAcceptjs
 "Something went wrong in the payment gateway.","Došlo je do greške pri prolasku plaćanja.",module,Magento_AuthorizenetAcceptjs
-"The authenticity of the gateway response could not be verified.","The authenticity of the gateway response could not be verified.",module,Magento_AuthorizenetAcceptjs
+"The authenticity of the gateway response could not be verified.","Autentičnost prolaza ne moće biti verifikovana.",module,Magento_AuthorizenetAcceptjs
 "Authorize Only","Samo odobriti",module,Magento_AuthorizenetAcceptjs
 "Authorize and Capture","Odobriti i prihvatiti",module,Magento_AuthorizenetAcceptjs
 "Credit Card Type","Vrsta kreditne kartice",module,Magento_AuthorizenetAcceptjs
@@ -474,38 +473,38 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Card Verification Number","Verifikacioni broj kartice",module,Magento_AuthorizenetAcceptjs
 "Authorize.Net","Authorize.Net",module,Magento_AuthorizenetAcceptjs
 "Enabled","Omogućeno",module,Magento_AuthorizenetAcceptjs
-"Basic Authorize.Net Settings","Basic Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Basic Authorize.Net Settings","Osnovna Authorize.Net podešavanja",module,Magento_AuthorizenetAcceptjs
 "Title","Naslov",module,Magento_AuthorizenetAcceptjs
 "Environment","Okruženje",module,Magento_AuthorizenetAcceptjs
 "Payment Action","Akcija plaćanja",module,Magento_AuthorizenetAcceptjs
 "API Login ID","API ID za prijavu",module,Magento_AuthorizenetAcceptjs
 "Transaction Key","Ključ transakcije",module,Magento_AuthorizenetAcceptjs
-"Public Client Key","Public Client Key",module,Magento_AuthorizenetAcceptjs
-"Signature Key","Signature Key",module,Magento_AuthorizenetAcceptjs
+"Public Client Key","Javni Ključ Klijenta",module,Magento_AuthorizenetAcceptjs
+"Signature Key","Ključ Potpisa",module,Magento_AuthorizenetAcceptjs
 "Merchant MD5 (deprecated)","Merchant MD5 (deprecated)",module,Magento_AuthorizenetAcceptjs
-"Advanced Authorize.Net Settings","Advanced Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Advanced Authorize.Net Settings","Napredna Authorize.Net Podešavanja",module,Magento_AuthorizenetAcceptjs
 "Accepted Currency","Prihvaćene valute",module,Magento_AuthorizenetAcceptjs
 "Debug","Otklanjanje grešaka",module,Magento_AuthorizenetAcceptjs
 "Email Customer","E-pošte kupca",module,Magento_AuthorizenetAcceptjs
-"Enable Credit Card Verification Field","Enable Credit Card Verification Field",module,Magento_AuthorizenetAcceptjs
+"Enable Credit Card Verification Field","Uključi Polje za Verifikaciju Kreditnom Karticom",module,Magento_AuthorizenetAcceptjs
 "Credit Card Types","Vrsta kreditne kartice",module,Magento_AuthorizenetAcceptjs
 "Payment from Applicable Countries","Plaćanja iz privaćenih zemalja",module,Magento_AuthorizenetAcceptjs
 "Payment from Specific Countries","Plaćanja iz određenih zemalja",module,Magento_AuthorizenetAcceptjs
 "Minimum Order Total","Minimalna vrednost porudžbine",module,Magento_AuthorizenetAcceptjs
 "Maximum Order Total","Maksimalna vrednost porudžbine",module,Magento_AuthorizenetAcceptjs
 "Sort Order","Redosled porudžbina",module,Magento_AuthorizenetAcceptjs
-"Invalid request to gateway.","Invalid request to gateway.",module,Magento_AuthorizenetAcceptjs
-"Invalid gateway credentials.","Invalid gateway credentials.",module,Magento_AuthorizenetAcceptjs
-"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_AuthorizenetAcceptjs
+"Invalid request to gateway.","Nevažeći zahtev do gateway-ja.",module,Magento_AuthorizenetAcceptjs
+"Invalid gateway credentials.","Nevažeći gateway podaci.",module,Magento_AuthorizenetAcceptjs
+"Transaction has been declined. Please try again later.","Transakcija je odbijena. Pokušajte ponovo kasnije.",module,Magento_AuthorizenetAcceptjs
 "Close","Zatvori",module,Magento_B2b
-"options","options",module,Magento_B2b
-"Select all","Select all",module,Magento_B2b
-"Deselect all","Deselect all",module,Magento_B2b
+"options","opcije",module,Magento_B2b
+"Select all","Izaberi sve",module,Magento_B2b
+"Deselect all","Opoovi sve",module,Magento_B2b
 "Cancel","Odustani",module,Magento_B2b
 "Done","Gotovo",module,Magento_B2b
 "Please Select","Molim odaberite",module,Magento_B2b
-"%s of %s selected","%s of %s selected",module,Magento_B2b
-"B2B Features","B2B Features",module,Magento_B2b
+"%s of %s selected","%s od %s izabrano",module,Magento_B2b
+"B2B Features","B2B Karakteristike",module,Magento_B2b
 "Invalid Form Key. Please refresh the page.","Nevažeća šifra za formu. Molim osvežite stranicu.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Uneli ste pogrešnu tajnu šifru. Molim osvežite stranicu.",module,Magento_Backend
 "Cache Storage Management","Upravljanje skladištem keša",module,Magento_Backend
@@ -622,7 +621,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Create Store","Napravi prodavnicu",module,Magento_Backend
 "Create Store View","Kreiranje prikaza prodavnice",module,Magento_Backend
 "Home","Početna",module,Magento_Backend
-"Reset","Reset",module,Magento_Backend
+"Reset","Resetovati",module,Magento_Backend
 "Are you sure you want to do this?","Jeste li sigurni da želite da uradite ovo?",module,Magento_Backend
 "Add New Image","Dodaj novu sliku",module,Magento_Backend
 "Export block for grid %1 is not defined","Izvoz bloka za koordinatnu mrežu %1 nije definisan",module,Magento_Backend
@@ -635,8 +634,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Date selector","Izbor datuma",module,Magento_Backend
 "[ deleted ]","[izbrisan]",module,Magento_Backend
 "Select All","Izaberi sve",module,Magento_Backend
-" [deleted]"," [deleted]",module,Magento_Backend
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Backend
+" [deleted]"," [izbrisan]",module,Magento_Backend
+"We couldn't find any records.","Nismo pronašli ni jedan zapis.",module,Magento_Backend
 "Add New","Dodaj Novo",module,Magento_Backend
 "Invalid export type supplied for grid export block","Nevažeći tip izvoza obezbeđen za izvoza bloka",module,Magento_Backend
 "Export","Izvezi",module,Magento_Backend
@@ -647,7 +646,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Please correct the tab configuration and try again. Tab Id should be not empty","Molim vas ispravite konfiguraciju kartice i pokušajte ponovo. Id kartice ne sme biti prazan",module,Magento_Backend
 "Please correct the tab configuration and try again.","Ispravite konfiguraciju kartice i pokušajte ponovo.",module,Magento_Backend
 "You have logged out.","Odjavili ste se.",module,Magento_Backend
-"Specified cache type(s) don't exist: %1","Specified cache type(s) don't exist: %1",module,Magento_Backend
+"Specified cache type(s) don't exist: %1","Odrešeni tip(ovi) keša ne postoje: %1",module,Magento_Backend
 "The image cache was cleaned.","Slika keša je obrisana.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Pojavila se greška prilikom brisanje slika keša.",module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","Keš JavaScript/CSS je obrisan.",module,Magento_Backend
@@ -665,7 +664,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "An error occurred while refreshing cache.","Pojavila se greška prilikom osvežavanja keša.",module,Magento_Backend
 "Dashboard","Kontrolna tabla",module,Magento_Backend
 "We updated lifetime statistic.","Ažurirali smo svu statistiku.",module,Magento_Backend
-"We can't refresh lifetime statistics.","We can't refresh lifetime statistics.",module,Magento_Backend
+"We can't refresh lifetime statistics.","Ne možemo osvežiti svu statistiku.",module,Magento_Backend
 "invalid request","nevažeći zahtev",module,Magento_Backend
 "see error log for details","pogledati dnevnik grešaka za detalje",module,Magento_Backend
 "Service unavailable: %1","Usluga nije dostupna: %1",module,Magento_Backend
@@ -684,7 +683,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "System","Sistem",module,Magento_Backend
 "Manage Stores","Upravljanje prodavnicama",module,Magento_Backend
 "The database was backed up.","Napravljena je rezervna kopija baze podataka.",module,Magento_Backend
-"We can't create a backup right now. Please try again later.","We can't create a backup right now. Please try again later.",module,Magento_Backend
+"We can't create a backup right now. Please try again later.","Ne možemo napraviti rezervnu kopiju sada. Pokušajte kasnije.",module,Magento_Backend
 "Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Brisanje je %1 neće izbrisati informacije povezane sa %1 (tj. kategorije, proizvodi, itd.), ali %1 se neće moći obnoviti. Poželjno je da kreirate rezervnu kopiju baze podataka pre brisanja %1.",module,Magento_Backend
 "Something went wrong. Please try again.","Nešto je pošlo naopako. Pokušaj ponovo.",module,Magento_Backend
 "This store cannot be deleted.","Prodavnicu nije moguće izbrisati.",module,Magento_Backend
@@ -726,7 +725,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Next steps","Sledeći koraci",module,Magento_Backend
 "If you think this is an error, try signing out and signing in again.","Ako mislite da je ovo je greška, pokušajte sa odjavljivanjem i ponovnom prijavom.",module,Magento_Backend
 "Contact a system administrator or store owner to gain permissions.","Obratite se administratoru sistema ili vlasniku radnje za dobijanje dozvola.",module,Magento_Backend
-"Return to ","Return to ",module,Magento_Backend
+"Return to ","Vrati se na ",module,Magento_Backend
 "HTTP_REFERER","HTTP_REFERER",module,Magento_Backend
 "previous page","prethodna stranica",module,Magento_Backend
 ".",".",module,Magento_Backend
@@ -770,7 +769,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Report an Issue","Prijavite problem",module,Magento_Backend
 "Store View:","Prikaz prodavnice:",module,Magento_Backend
 "Stores Configuration","Konfiguracija prodavnice",module,Magento_Backend
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Please confirm scope switching. All data that hasn't been saved will be lost.",module,Magento_Backend
+"Please confirm scope switching. All data that hasn't been saved will be lost.","Molimo vas potvrdite promenu opsega. Svi podaci nisu dačuvani i biće obrisani.",module,Magento_Backend
 "Additional Cache Management","Dodatno upravljanje kešom",module,Magento_Backend
 "Flush Catalog Images Cache","Obriši keš kataloga slika",module,Magento_Backend
 "Pregenerated product images files","Datoteke slika proizvoda pregenerisane",module,Magento_Backend
@@ -804,7 +803,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Loading...","Učitavanje...",module,Magento_Backend
 "We could not detect a size.","Nismo mogli otkriti veličinu.",module,Magento_Backend
 "We don't recognize or support this file extension type.","Ne možemo prepoznati ili pružiti podršku za ovaj tip datoteke.",module,Magento_Backend
-"Warning message","Warning message",module,Magento_Backend
+"Warning message","Poruka upozorenja",module,Magento_Backend
 "This operation can take a long time","Ova operacija može potrajati dugo vremena",module,Magento_Backend
 "Allow everything","Dozvoli sve",module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
@@ -816,7 +815,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Elements","Elementi",module,Magento_Backend
 "Design","Dizajn",module,Magento_Backend
 "Schedule","Raspored",module,Magento_Backend
-"Content translation","Content translation",module,Magento_Backend
+"Content translation","Prevod Sadržaja",module,Magento_Backend
 "Settings","Podešavanja",module,Magento_Backend
 "Attributes","Atributi",module,Magento_Backend
 "Other Settings","Druge postavke",module,Magento_Backend
@@ -826,10 +825,10 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Package Extensions","Paket ekstenzija",module,Magento_Backend
 "Tools","Alati",module,Magento_Backend
 "Clean Cache Actions","Clean Cache Actions",module,Magento_Backend
-"Cache Types Management","Cache Types Management",module,Magento_Backend
-"Toggle Cache Type","Toggle Cache Type",module,Magento_Backend
-"Refresh Cache Type","Refresh Cache Type",module,Magento_Backend
-"Catalog Images Cache","Catalog Images Cache",module,Magento_Backend
+"Cache Types Management","Upravljanje kešom",module,Magento_Backend
+"Toggle Cache Type","Ukčjuči/Isključi Tip Keša",module,Magento_Backend
+"Refresh Cache Type","Osveži Tip Keš",module,Magento_Backend
+"Catalog Images Cache","Kataloga Kepa Slika",module,Magento_Backend
 "Flush Js/Css","Flush Js/Css",module,Magento_Backend
 "Flush Static Files","Flush Static Files",module,Magento_Backend
 "Web Setup Wizard","Čarobnjak za podešavanje Web",module,Magento_Backend
@@ -982,15 +981,15 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Unable to delete store. Please, try again later.","Unable to delete store. Please, try again later.",module,Magento_Backend
 "Unable to delete store view. Please, try again later.","Unable to delete store view. Please, try again later.",module,Magento_Backend
 "Unable to delete website. Please, try again later.","Unable to delete website. Please, try again later.",module,Magento_Backend
-"Access denied","Access denied",module,Magento_Backend
-"Please try to sign out and sign in again.","Please try to sign out and sign in again.",module,Magento_Backend
-"If you continue to receive this message, please contact the store owner.","If you continue to receive this message, please contact the store owner.",module,Magento_Backend
+"Access denied","Pristup zabranjen",module,Magento_Backend
+"Please try to sign out and sign in again.","Pokušajte da se ulogujete ponvo.",module,Magento_Backend
+"If you continue to receive this message, please contact the store owner.","Ako ponovo vidite ovu poruku kontaktirajte vlasnika prodavnice.",module,Magento_Backend
 "You need more permissions to access this.","Potrebne su vam više dozvole za pristup ovom.",module,Magento_Backend
-"Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
-"Report Bugs","Report Bugs",module,Magento_Backend
-"Themes JavaScript and CSS files combined to one file.","Themes JavaScript and CSS files combined to one file.",module,Magento_Backend
-"Design Theme","Design Theme",module,Magento_Backend
-"User-Agent Exceptions","User-Agent Exceptions",module,Magento_Backend
+"Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Autorskih prava &copy; %1 Magento Commerce Inc. Sva prava zadržana.",module,Magento_Backend
+"Report Bugs","Prijavi Bagove",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file.","JavaScript i CSS fajlovi teme spojeni u jedan fajl.",module,Magento_Backend
+"Design Theme","Dizajniraj Temu",module,Magento_Backend
+"User-Agent Exceptions","User-Agent Izuzeci",module,Magento_Backend
 "Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>",module,Magento_Backend
 "Find a string in client user-agent header and switch to specific design theme for that browser.","Find a string in client user-agent header and switch to specific design theme for that browser.",module,Magento_Backend
 "If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.",module,Magento_Backend
@@ -1049,20 +1048,20 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Something went wrong while putting your store into maintenance mode.","Došlo je do greške pri stavljanju vaše prodavnice u režim održavanja.",module,Magento_Backup
 "You need more free space to create a backup.","Potrebno vam je više slobodnog prostora za izradu rezervne kopije.",module,Magento_Backup
 "You need more permissions to create a backup.","Potrebno vam je više dozvola za izradu rezervne kopije.",module,Magento_Backup
-"We can't create the backup right now.","We can't create the backup right now.",module,Magento_Backup
+"We can't create the backup right now.","Trenutno je nemoguće kreirati rezervnu kopiju.",module,Magento_Backup
 "Backups","Rezervne kopije",module,Magento_Backup
 "System","Sistem",module,Magento_Backup
 "Tools","Alati",module,Magento_Backup
 "Backup","Pravljenje rezervne kopije",module,Magento_Backup
-"We can't delete one or more backups.","We can't delete one or more backups.",module,Magento_Backup
+"We can't delete one or more backups.","Nemoguće obrisate jednu ili više rezervnih kopija.",module,Magento_Backup
 "failed","neuspešno",module,Magento_Backup
 "successful","uspešno",module,Magento_Backup
 "You deleted the selected backup(s).","Obrisali ste izabranu(e) rezervnu(e) kopije.",module,Magento_Backup
-"Can't load snapshot archive","Can't load snapshot archive",module,Magento_Backup
+"Can't load snapshot archive","Nemoguće učitati arhivu snimaka",module,Magento_Backup
 "Please correct the password.","Molim ispravite lozinku.",module,Magento_Backup
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Da biste dovršili vraćanje, opozovite izbor „Stavi prodavnicu u režimu održavanja” ili ažurirajte vaše dozvole.",module,Magento_Backup
-"We can't find the backup file.","We can't find the backup file.",module,Magento_Backup
-"We can't connect to the FTP right now.","We can't connect to the FTP right now.",module,Magento_Backup
+"We can't find the backup file.","Nemožemo pronaći fajl rezervne kopije.",module,Magento_Backup
+"We can't connect to the FTP right now.","Trenutno se nemožemo povezati na FTP.",module,Magento_Backup
 "Failed to validate FTP.","Neuspešna provera FTP.",module,Magento_Backup
 "You need more permissions to perform a rollback.","Potrebno vam je više dozvola za izvršavanje vraćanja na prethodno.",module,Magento_Backup
 "Failed to rollback.","Neuspešno vraćanje na prethodno.",module,Magento_Backup
@@ -1080,7 +1079,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Sorry, but we cannot read from or write to backup file ""%1"".","Izvini, ali ne može se promeniti sadržaj rezervne datoteke „%1”.",module,Magento_Backup
 "The backup file handler was unspecified.","Program za čitanje sadržaja rezervne kopije je neodređen.",module,Magento_Backup
 "Something went wrong while writing to the backup file ""%1"".","Nešto je krenulo naopako pri upisu u rezervnu datoteku „%1”.",module,Magento_Backup
-"We can't save the Cron expression.","We can't save the Cron expression.",module,Magento_Backup
+"We can't save the Cron expression.","Nemožemo dačuvati Cron izraz.",module,Magento_Backup
 "You will lose any data created since the backup was made, including admin users, customers and orders.","Izgubi ćete sve podatke napravljene od kada je napravljena rezervna kopija, uključujući i podatke o korisnicima, kupcima i porudžbinama.",module,Magento_Backup
 "Are you sure you want to continue?","Da li ste sigurni da želite da nastavite?",module,Magento_Backup
 "This may take a few moments.","Ovo bi moglo da potraje.",module,Magento_Backup
@@ -1118,11 +1117,11 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Type","Tip",module,Magento_Backup
 "Download","Preuzimanje",module,Magento_Backup
 "Action","Akcija",module,Magento_Backup
-"Backup functionality is disabled","Backup functionality is disabled",module,Magento_Backup
-"Backup Settings","Backup Settings",module,Magento_Backup
-"Enable Backup","Enable Backup",module,Magento_Backup
-"Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
-"Disabled by default for security reasons","Disabled by default for security reasons",module,Magento_Backup
+"Backup functionality is disabled","Funkcionalnost rezervna kopija je isključena",module,Magento_Backup
+"Backup Settings","Podešavanja Rezervne Kopije",module,Magento_Backup
+"Enable Backup","Omogući Ređervnu Kopiju",module,Magento_Backup
+"Scheduled Backup Type","Zakazani Tip Rezervne Kopije",module,Magento_Backup
+"Disabled by default for security reasons","Ugašeno iz bezbednosnih razloga",module,Magento_Backup
 "Banners","Reklamni natpisi",module,Magento_Banner
 "Add Banner","Dodaj reklamni natpisi",module,Magento_Banner
 "Save Banner","Sačuvaj reklamni natpisi",module,Magento_Banner
@@ -1196,61 +1195,61 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Specify Banners","Navedite Banere",module,Magento_Banner
 "Banner Block Template","Blok šablona banera",module,Magento_Banner
 "Banner Inline Template","Umetnut šablon banera",module,Magento_Banner
-"Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
-"Add Dynamic Block","Add Dynamic Block",module,Magento_Banner
-"Save Dynamic Block","Save Dynamic Block",module,Magento_Banner
-"Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
-"New Dynamic Block","New Dynamic Block",module,Magento_Banner
+"Dynamic Blocks","Dinamični Blokovi",module,Magento_Banner
+"Add Dynamic Block","Dodaj Dinamični Blok",module,Magento_Banner
+"Save Dynamic Block","Sačuvaj dinamični blok",module,Magento_Banner
+"Delete Dynamic Block","Obriši Dinamični Blok",module,Magento_Banner
+"New Dynamic Block","Novi Dinamični Blok",module,Magento_Banner
 "Are you sure you want to do this?","Jeste li sigurni da želite da uradite ovo?",module,Magento_Banner
-"Reset","Reset",module,Magento_Banner
+"Reset","Resetovati",module,Magento_Banner
 "Save","Sačuvaj",module,Magento_Banner
-"Dynamic Block Default Content for All Store Views","Dynamic Block Default Content for All Store Views",module,Magento_Banner
-"Dynamic Block Properties","Dynamic Block Properties",module,Magento_Banner
-"Dynamic Block Name","Dynamic Block Name",module,Magento_Banner
-"Any Dynamic Block Type","Any Dynamic Block Type",module,Magento_Banner
-"Specified Dynamic Block Types","Specified Dynamic Block Types",module,Magento_Banner
-"Dynamic Block Information","Dynamic Block Information",module,Magento_Banner
-"Dynamic Block","Dynamic Block",module,Magento_Banner
-"Dynamic Block Type","Dynamic Block Type",module,Magento_Banner
-"Are you sure you want to delete these dynamic blocks?","Are you sure you want to delete these dynamic blocks?",module,Magento_Banner
-"Related Dynamic Blocks","Related Dynamic Blocks",module,Magento_Banner
-"You deleted the dynamic block.","You deleted the dynamic block.",module,Magento_Banner
-"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Something went wrong while deleting dynamic block data. Please review the action log and try again.",module,Magento_Banner
-"We cannot find a dynamic block to delete.","We cannot find a dynamic block to delete.",module,Magento_Banner
-"This dynamic block no longer exists.","This dynamic block no longer exists.",module,Magento_Banner
-"Edit Dynamic Block","Edit Dynamic Block",module,Magento_Banner
-"Please select a dynamic block(s).","Please select a dynamic block(s).",module,Magento_Banner
-"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.",module,Magento_Banner
-"This dynamic block does not exist.","This dynamic block does not exist.",module,Magento_Banner
-"You saved the dynamic block.","You saved the dynamic block.",module,Magento_Banner
-"We cannot save the dynamic block.","We cannot save the dynamic block.",module,Magento_Banner
-"Manage Dynamic Blocks","Manage Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks Rotator","Dynamic Blocks Rotator",module,Magento_Banner
-"Displays Specified or Promotion Dynamic Blocks","Displays Specified or Promotion Dynamic Blocks",module,Magento_Banner
-"Dynamic Blocks to Display","Dynamic Blocks to Display",module,Magento_Banner
-"Specified Dynamic Blocks","Specified Dynamic Blocks",module,Magento_Banner
-"Restrict by Dynamic Block Types","Restrict by Dynamic Block Types",module,Magento_Banner
-"Specify Dynamic Blocks","Specify Dynamic Blocks",module,Magento_Banner
-"Dynamic Block Template","Dynamic Block Template",module,Magento_Banner
-"Dynamic Block Inline Template","Dynamic Block Inline Template",module,Magento_Banner
+"Dynamic Block Default Content for All Store Views","Default Sadržaj za Prikaz Prodavnice",module,Magento_Banner
+"Dynamic Block Properties","Podaešavanja Dinamičnog Bloka",module,Magento_Banner
+"Dynamic Block Name","Naziv Dinamičnog Bloka",module,Magento_Banner
+"Any Dynamic Block Type","Bilo koji tip Dinamičnog Bloka",module,Magento_Banner
+"Specified Dynamic Block Types","Određeni tip Dinamičnog Bloka",module,Magento_Banner
+"Dynamic Block Information","Informacije Dinamičnog Bloka",module,Magento_Banner
+"Dynamic Block","Dinamični Blokov",module,Magento_Banner
+"Dynamic Block Type","Tip Dinamičnog Bloka",module,Magento_Banner
+"Are you sure you want to delete these dynamic blocks?","Da li ste sigurni da želite da obrišete ove dinamične blokove?",module,Magento_Banner
+"Related Dynamic Blocks","Povezani Dinamični Blokovi",module,Magento_Banner
+"You deleted the dynamic block.","Obrisali ste dinamični Blok.",module,Magento_Banner
+"Something went wrong while deleting dynamic block data. Please review the action log and try again.","Došlo je do greške prilikom brisanja podataka o dinamičnom bloku. Molimo pogledajte dnevnik aktivnosti i pokušajte ponovo.",module,Magento_Banner
+"We cannot find a dynamic block to delete.","Nemožemo pronaći dinamični blok za brisanje.",module,Magento_Banner
+"This dynamic block no longer exists.","Dinamični blok više nepostoji.",module,Magento_Banner
+"Edit Dynamic Block","Uredi Dinamični Blok",module,Magento_Banner
+"Please select a dynamic block(s).","Izaberi dinamični blok(ove).",module,Magento_Banner
+"Something went wrong while mass-deleting dynamic blocks. Please review the action log and try again.","Došlo je do greške prilikom brisanja većeg broja dinamičnih blokova. Molimo pogledajte dnevnik aktivnosti i pokušajte ponovo.",module,Magento_Banner
+"This dynamic block does not exist.","Dinamični blok više nepostoji.",module,Magento_Banner
+"You saved the dynamic block.","Sačuvali ste dinamični Blok.",module,Magento_Banner
+"We cannot save the dynamic block.","Ne moćemo sačuvati dinamični blok.",module,Magento_Banner
+"Manage Dynamic Blocks","Upravljaj Dinamičnim Blokovima",module,Magento_Banner
+"Dynamic Blocks Rotator","Rotator Dinamičnih Blokova",module,Magento_Banner
+"Displays Specified or Promotion Dynamic Blocks","Prikazuje navedeni ili promovisani Dinamični Blok",module,Magento_Banner
+"Dynamic Blocks to Display","Dinamični Blok za Prikaz",module,Magento_Banner
+"Specified Dynamic Blocks","Određeni tip Dinamičnog Bloka",module,Magento_Banner
+"Restrict by Dynamic Block Types","Ograničeno od strane tipa Sinamičnog Bloka",module,Magento_Banner
+"Specify Dynamic Blocks","Odredi Tip Dinamičnog Bloka",module,Magento_Banner
+"Dynamic Block Template","Šablon Dinamičnog Bloka",module,Magento_Banner
+"Dynamic Block Inline Template","Linijski Šablon Dinamičnog Bloka",module,Magento_Banner
 "Name","Ime",module,Magento_Banner
-"Status Label","Status Label",module,Magento_Banner
-"General Information","General Information",module,Magento_Banner
+"Status Label","Statusna Labela",module,Magento_Banner
+"General Information","Opšte informacije",module,Magento_Banner
 "Back","Nazad",module,Magento_Banner
-"Enable Dynamic Block","Enable Dynamic Block",module,Magento_Banner
+"Enable Dynamic Block","Uključi Dinamični Blok",module,Magento_Banner
 "Use Default Value","Koristite podrazumevane vrednosti",module,Magento_Banner
-"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Cart price rules allows you to setup promotions for items that are in the shopping cart.",module,Magento_Banner
-"Add Cart Price Rules","Add Cart Price Rules",module,Magento_Banner
-"Related Catalog Price Rule","Related Catalog Price Rule",module,Magento_Banner
-"Catalog price rules allows you to setup promotions for an items in catalog.","Catalog price rules allows you to setup promotions for an items in catalog.",module,Magento_Banner
+"Cart price rules allows you to setup promotions for items that are in the shopping cart.","Pravila cena u korpi omogućavaju vam da napravite promocije za artikle u korpi.",module,Magento_Banner
+"Add Cart Price Rules","Dodaj Pravila Cena U Korpi",module,Magento_Banner
+"Related Catalog Price Rule","Srodna pravila kataloga cena",module,Magento_Banner
+"Catalog price rules allows you to setup promotions for an items in catalog.","Pravila cena u kategoriji omogućavaju vam da napravite promocije za artikle u korpi.",module,Magento_Banner
 "Cancel","Odustani",module,Magento_Banner
 "Add Selected","Dodavanje izabrane",module,Magento_Banner
 "Remove","Ukloni",module,Magento_Banner
-"Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Make sure that dynamic blocks rotator does not reference the dynamic block itself.",module,Magento_Banner
-"Cart Price Rule Related","Cart Price Rule Related",module,Magento_Banner
-"Catalog Price Rule Related","Catalog Price Rule Related",module,Magento_Banner
-"All Segments","All Segments",module,Magento_BannerCustomerSegment
-"Customer Segment","Customer Segment",module,Magento_BannerCustomerSegment
+"Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Proverite da rotator dinamičnog bloka ne navodi dinmični blok.",module,Magento_Banner
+"Cart Price Rule Related","Pravila Cena Povezane Korpe",module,Magento_Banner
+"Catalog Price Rule Related","Pravila Cena Povezane Kategorije",module,Magento_Banner
+"All Segments","Svi Segmenti",module,Magento_BannerCustomerSegment
+"Customer Segment","Korisnički Segment",module,Magento_BannerCustomerSegment
 "Country","Država",module,Magento_Braintree
 "Allowed Credit Card Types","Dozvoljene vrste kreditnih kartica",module,Magento_Braintree
 "Add Rule","Dodati pravilo",module,Magento_Braintree
@@ -4591,40 +4590,40 @@ new products will be created. Use this step to customize images and price for yo
 "Scope","Opseg",module,Magento_ConfigurableProductStaging
 "Searchable","Mogu se pretraživati",module,Magento_ConfigurableProductStaging
 "Comparable","Uporedivo",module,Magento_ConfigurableProductStaging
-"Page not found.","Page not found.",module,Magento_Contact
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Thanks for contacting us with your comments and questions. We'll respond to you very soon.",module,Magento_Contact
-"An error occurred while processing your form. Please try again later.","An error occurred while processing your form. Please try again later.",module,Magento_Contact
-"Name is missing","Name is missing",module,Magento_Contact
-"Comment is missing","Comment is missing",module,Magento_Contact
-"Invalid email address","Invalid email address",module,Magento_Contact
+"Page not found.","Stranica nije pronađena.",module,Magento_Contact
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Hvala što ste nas kontaktirali ostavljajući komentar ili pitanje, Uskoro ćemo Vam odgovoriti.",module,Magento_Contact
+"An error occurred while processing your form. Please try again later.","Došlo je do greške prilikom procesiranja forme. Molimo pokušajte ponovo kasnije.",module,Magento_Contact
+"Name is missing","Nedostaje ime",module,Magento_Contact
+"Comment is missing","Nedostaje komentar",module,Magento_Contact
+"Invalid email address","Nepravilna e-mail adresa",module,Magento_Contact
 "* Required Fields","* Obavezna polja",module,Magento_Contact
-"Write Us","Write Us",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
+"Write Us","Pišite Nam",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","Ostavite nam poruku i javićemo vam se što je pre moguće.",module,Magento_Contact
 "Name","Ime",module,Magento_Contact
 "Email","E-pošta",module,Magento_Contact
-"Phone Number","Phone Number",module,Magento_Contact
-"What’s on your mind?","What’s on your mind?",module,Magento_Contact
+"Phone Number","Broj telefona",module,Magento_Contact
+"What’s on your mind?","Šta Vam je na umu?",module,Magento_Contact
 "Submit","Pošalji",module,Magento_Contact
-"Contact Form","Contact Form",module,Magento_Contact
+"Contact Form","Kontakt forma",module,Magento_Contact
 "Phone","Telefon",module,Magento_Contact
 "Message","Poruka",module,Magento_Contact
-"Contacts Section","Contacts Section",module,Magento_Contact
-"Contacts","Contacts",module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
-"Enable Contact Us","Enable Contact Us",module,Magento_Contact
-"Email Options","Email Options",module,Magento_Contact
-"Send Emails To","Send Emails To",module,Magento_Contact
-"Email Sender","Email Sender",module,Magento_Contact
-"Email Template","Email Template",module,Magento_Contact
+"Contacts Section","Deo sa kontaktima",module,Magento_Contact
+"Contacts","Kontakti",module,Magento_Contact
+"Contact Us","Kontaktirajte nas",module,Magento_Contact
+"Enable Contact Us","Omogućeno je da nas kontaktirate",module,Magento_Contact
+"Email Options","Email Opcije",module,Magento_Contact
+"Send Emails To","Pošalji Email na",module,Magento_Contact
+"Email Sender","Pošiljalac Mejla",module,Magento_Contact
+"Email Template","Šablon Mejla",module,Magento_Contact
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Šalon e-pošte je izabran na osnovu teme kada je izabrana opcija „Zadata vrednost”.",module,Magento_Contact
-"We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
-"Name: %name","Name: %name",module,Magento_Contact
+"We can't process your request right now. Sorry, that's all we know.","Sada ne možemo procesirati Vaš zahtev. Izvinjavamo se, to je sve što znamo za sada.",module,Magento_Contact
+"Name: %name","Ime: %name",module,Magento_Contact
 "Email: %email","Email: %email",module,Magento_Contact
-"Phone Number: %telephone","Phone Number: %telephone",module,Magento_Contact
-"Comment: %comment","Comment: %comment",module,Magento_Contact
-"Enter the Name and try again.","Enter the Name and try again.",module,Magento_Contact
-"Enter the comment and try again.","Enter the comment and try again.",module,Magento_Contact
-"The email address is invalid. Verify the email address and try again.","The email address is invalid. Verify the email address and try again.",module,Magento_Contact
+"Phone Number: %telephone","Broj Telefona: %telephone",module,Magento_Contact
+"Comment: %comment","Komentar: %comment",module,Magento_Contact
+"Enter the Name and try again.","Unesite Ime i pokušajte ponovo.",module,Magento_Contact
+"Enter the comment and try again.","Upišite komentar i pokušajte ponovo.",module,Magento_Contact
+"The email address is invalid. Verify the email address and try again.","Mejl adresa je neispravna. Proverite mejl adresu i pokušajte ponovo.",module,Magento_Contact
 "Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
 "Invalid cookie path","Invalid cookie path",module,Magento_Cookie
@@ -14195,7 +14194,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "The ""%1"" utility is unknown. Verify the utility and try again.","The ""%1"" utility is unknown. Verify the utility and try again.",module,Magento_Support
 "The root category can't be set. Verify the category and try again.","The root category can't be set. Verify the category and try again.",module,Magento_Support
 "Unknown schema type supplied","Unknown schema type supplied",module,Magento_Swagger
-"Admin is a required field in each row","Admin is a required field in each row",module,Magento_Swatches
+"Admin is a required field in each row","Admin je zatražio polje u svakom redu",module,Magento_Swatches
 "Update Product Preview Image","Update Product Preview Image",module,Magento_Swatches
 "Filtering by this attribute will update the product image on catalog page","Filtering by this attribute will update the product image on catalog page",module,Magento_Swatches
 "Use Product Image for Swatch if Possible","Use Product Image for Swatch if Possible",module,Magento_Swatches
@@ -16223,73 +16222,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Rezime",theme,frontend\Magento\blank
-"Account Dashboard","Kontrolna tabla",theme,frontend\Magento\blank
-"Account Information","Informacije o nalogu",theme,frontend\Magento\blank
-"Address Book","Adresar",theme,frontend\Magento\blank
-"Menu","Meni",theme,frontend\Magento\blank
-"Account","Nalog",theme,frontend\Magento\blank
-"Settings","Podešavanja",theme,frontend\Magento\blank
-"Now Shopping by","Sada kupiti preko",theme,frontend\Magento\luma
-"Previous","Prethodni",theme,frontend\Magento\luma
-"Remove","Ukloni",theme,frontend\Magento\luma
-"Remove This Item","Ukloni ovu stavku",theme,frontend\Magento\luma
-"Shop By","Kupiti po",theme,frontend\Magento\luma
-"Clear All","Očisti sve",theme,frontend\Magento\luma
-"Shopping Options","Opcije kupovine",theme,frontend\Magento\luma
-"Welcome to %store_name","Dobrodošli u %store_name",theme,frontend\Magento\luma
-"%name,","%naziv,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Dobrodošli u %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Da biste se prijavili na naš sajt, koristite ove akreditive tokom provere ili na stranici <a href=""%customer_url"">Moj račun</a>:",theme,frontend\Magento\luma
-"Email:","E-mail:",theme,frontend\Magento\luma
-"Password:","Lozinka:",theme,frontend\Magento\luma
-"Password you set when creating account","Lozinka koju ste postavili prilikom kreiranja naloga",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zaboravili ste lozinku svog naloga? Kliknite <a href=""%reset_url""> ovde</a> da biste poništili to.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Kada se prijavite na svoj nalog, moći ćete da:",theme,frontend\Magento\luma
-"Quick Checkout","Brza provera",theme,frontend\Magento\luma
-"Proceed through checkout faster","Nastavite brže kroz proveru",theme,frontend\Magento\luma
-"Order Status","Status porudžbine",theme,frontend\Magento\luma
-"Check the status of orders","Proverite status porudžbine",theme,frontend\Magento\luma
-"Manage Addresses","Upravljajte adresama",theme,frontend\Magento\luma
-"Store alternative addresses","Skladištenje alternativnih adresa",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Za isporuku više članova porodice i prijateljima",theme,frontend\Magento\luma
-"Order History","Istorija porudžbine",theme,frontend\Magento\luma
-"View past orders","Vidi sve porudžbine",theme,frontend\Magento\luma
-"Footer","Podnožje stranice",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>O nama</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Servis za kupce</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Radno vreme:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Profaktura za vašu %store_name porudžbinu",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Hvala vam za porudžbinu %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Možete da proverite status Vaše porudžbine prijavljivanjem <a href=""%account_url"">u Vaš nalog</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ako imate pitanja o porudžbini, možete nam pisati na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Vaša profaktura #%creditmemo_id za Porudžbinu #%order_id",theme,frontend\Magento\luma
-"Billing Info","Informacije o plaćanju",theme,frontend\Magento\luma
-"Shipping Info","Informacije o isporuci",theme,frontend\Magento\luma
-"Payment Method","Način plaćanja",theme,frontend\Magento\luma
-"Shipping Method","Način Dostave",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Ažurirajate Vašu %store_name profakturu",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Vaša porudžbina #%increment_id je ažurirana sa statusom <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Faktura za Vašu %store_name porudžbinu",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Vaša faktura #%invoice_id za Porudžbinu #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Ažurirajte Vašu %store_name fakturu",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Potvrda %store_name Vaše porudžbine",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Kada Vaša porudžbina bude poslata, poslaćemo Vam broj za praćenje porudžbine.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Vaša porudžbina <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Postavljeno na <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Ažurirajte Vašu %store_name porudžbinu",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Vaša %store_name porudžbina je poslata",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Vaša potvrda o isporuci je ispod. Hvala Vam još jednom za Vaše poslovanje.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Isporuka za #%shipment_id za porudžbinu #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Ažurirano na Vašoj %store_name pošiljci",theme,frontend\Magento\luma
-"Account Dashboard","Kontrolna tabla",theme,frontend\Magento\luma
-"Address Book","Adresar",theme,frontend\Magento\luma
-"Account Information","Informacije o nalogu",theme,frontend\Magento\luma
-"About Us","O nama",theme,frontend\Magento\luma
-"Customer Service","Korisnički servis",theme,frontend\Magento\luma
-"My Account","Moj nalog",theme,frontend\Magento\luma
+"Summary","Rezime",theme,frontend/Magento/blank
+"Account Dashboard","Kontrolna tabla",theme,frontend/Magento/blank
+"Account Information","Informacije o nalogu",theme,frontend/Magento/blank
+"Address Book","Adresar",theme,frontend/Magento/blank
+"Menu","Meni",theme,frontend/Magento/blank
+"Account","Nalog",theme,frontend/Magento/blank
+"Settings","Podešavanja",theme,frontend/Magento/blank
+"Now Shopping by","Sada kupiti preko",theme,frontend/Magento/luma
+"Previous","Prethodni",theme,frontend/Magento/luma
+"Remove","Ukloni",theme,frontend/Magento/luma
+"Remove This Item","Ukloni ovu stavku",theme,frontend/Magento/luma
+"Shop By","Kupiti po",theme,frontend/Magento/luma
+"Clear All","Očisti sve",theme,frontend/Magento/luma
+"Shopping Options","Opcije kupovine",theme,frontend/Magento/luma
+"Welcome to %store_name","Dobrodošli u %store_name",theme,frontend/Magento/luma
+"%name,","%naziv,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Dobrodošli u %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Da biste se prijavili na naš sajt, koristite ove akreditive tokom provere ili na stranici <a href=""%customer_url"">Moj račun</a>:",theme,frontend/Magento/luma
+"Email:","E-mail:",theme,frontend/Magento/luma
+"Password:","Lozinka:",theme,frontend/Magento/luma
+"Password you set when creating account","Lozinka koju ste postavili prilikom kreiranja naloga",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Zaboravili ste lozinku svog naloga? Kliknite <a href=""%reset_url""> ovde</a> da biste poništili to.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Kada se prijavite na svoj nalog, moći ćete da:",theme,frontend/Magento/luma
+"Quick Checkout","Brza provera",theme,frontend/Magento/luma
+"Proceed through checkout faster","Nastavite brže kroz proveru",theme,frontend/Magento/luma
+"Order Status","Status porudžbine",theme,frontend/Magento/luma
+"Check the status of orders","Proverite status porudžbine",theme,frontend/Magento/luma
+"Manage Addresses","Upravljajte adresama",theme,frontend/Magento/luma
+"Store alternative addresses","Skladištenje alternativnih adresa",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Za isporuku više članova porodice i prijateljima",theme,frontend/Magento/luma
+"Order History","Istorija porudžbine",theme,frontend/Magento/luma
+"View past orders","Vidi sve porudžbine",theme,frontend/Magento/luma
+"Footer","Podnožje stranice",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>O nama</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Servis za kupce</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Radno vreme:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Profaktura za vašu %store_name porudžbinu",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Hvala vam za porudžbinu %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Možete da proverite status Vaše porudžbine prijavljivanjem <a href=""%account_url"">u Vaš nalog</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ako imate pitanja o porudžbini, možete nam pisati na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Vaša profaktura #%creditmemo_id za Porudžbinu #%order_id",theme,frontend/Magento/luma
+"Billing Info","Informacije o plaćanju",theme,frontend/Magento/luma
+"Shipping Info","Informacije o isporuci",theme,frontend/Magento/luma
+"Payment Method","Način plaćanja",theme,frontend/Magento/luma
+"Shipping Method","Način Dostave",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Ažurirajate Vašu %store_name profakturu",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Vaša porudžbina #%increment_id je ažurirana sa statusom <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Faktura za Vašu %store_name porudžbinu",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Vaša faktura #%invoice_id za Porudžbinu #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Ažurirajte Vašu %store_name fakturu",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Potvrda %store_name Vaše porudžbine",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Kada Vaša porudžbina bude poslata, poslaćemo Vam broj za praćenje porudžbine.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Vaša porudžbina <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Postavljeno na <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Ažurirajte Vašu %store_name porudžbinu",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Vaša %store_name porudžbina je poslata",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Vaša potvrda o isporuci je ispod. Hvala Vam još jednom za Vaše poslovanje.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Isporuka za #%shipment_id za porudžbinu #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Ažurirano na Vašoj %store_name pošiljci",theme,frontend/Magento/luma
+"Account Dashboard","Kontrolna tabla",theme,frontend/Magento/luma
+"Address Book","Adresar",theme,frontend/Magento/luma
+"Account Information","Informacije o nalogu",theme,frontend/Magento/luma
+"About Us","O nama",theme,frontend/Magento/luma
+"Customer Service","Korisnički servis",theme,frontend/Magento/luma
+"My Account","Moj nalog",theme,frontend/Magento/luma
 "Backup options","Backup options",lib,web
 "Warning","Upozorenje",lib,web
 "Cancel","Odustani",lib,web

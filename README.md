@@ -20,8 +20,6 @@ Read more [Magento 2 Serbian (Latin) Language Pack](https://www.mageplaza.com/ma
 
 This is status of Serbian (Latin) Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](https://progress-bar.dev/25/?title=translated)
-
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-serbian-latin-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
@@ -38,13 +36,24 @@ Install the Serbian (Latin) language pack via composer is never easier.
 
 **Install Serbian (Latin) pack**:
 
+With Social Proof (recommend):
+
+```
+composer require mageplaza/magento-2-serbian-latin-language-pack:dev-master avada/module-proofo
+php bin/magento setup:static-content:deploy sr_CS
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+```
+
+Without Social Proof:
+
 ```
 composer require mageplaza/magento-2-serbian-latin-language-pack:dev-master
 php bin/magento setup:static-content:deploy sr_CS
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 
